@@ -22,4 +22,4 @@ Hey! I'm Sejal. I'm currently a fresher in college.<br>🤝 I’m looking to col
 [![](https://visitcount.itsvg.in/api?id=CodeNova00&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![Snake animation](https://github.com/CodeNova00/CodeNova00/blob/output/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/CodeNova00/CodeNova00/blob/output/snake.y,l
